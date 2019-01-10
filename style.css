@@ -27,6 +27,9 @@ img {
 	justify-content: center;
 }
 
-button {
-justify-content: center;
+.container1 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
 }
